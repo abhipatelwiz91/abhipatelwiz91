@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Abhishek Patel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning advance fullstack developing
+- 🌱 I’m currently learning advance fullstack development
 - 💞️ I’m looking to collaborate on mern projects
-- 📫 How to reach me you can't
-- 😄 Pronouns: ...
+- 📫 How to reach me - actually you can't
+- 😄 Pronouns: TheAbhiPatel
 - ⚡ Fun fact: do coding to improve your coding abilites 
 
 <!---
